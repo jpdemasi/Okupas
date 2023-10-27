@@ -29,6 +29,12 @@ html {
     background-image: url(../img/fondo.jpg);
   }
 
+.mailicon {
+  font-size: 48px;
+  display: flex;
+  justify-content: center;
+}
+
 .titlepage {
   display: grid;
   justify-content: center;
